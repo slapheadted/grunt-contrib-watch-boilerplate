@@ -1,4 +1,4 @@
 grunt-contrib-watch-boilerplate
 ===============================
 
-<script src="http://localhost:35729/livereload.js"></script>
+    <script src="http://localhost:35729/livereload.js"></script>
